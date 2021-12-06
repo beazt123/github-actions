@@ -2,7 +2,7 @@ name: check-code
 on: [push, pull_request]
 jobs:
   run-linters:
-    runs-on: [self-hosted, x64, linux, Docker]
+    runs-on: ubuntu-latest
     steps:      
         - uses: JetBrains/qodana-action@v3.2.1
           with:
