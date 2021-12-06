@@ -1,0 +1,15 @@
+{
+  "total": 0,
+  "tools inspection": {
+    "Code Inspection": 0
+  },
+  "attributes": {
+    "vcs": {
+      "sarifIdea": {
+        "repositoryUri": "https://github.com/beazt123/github-actions",
+        "revisionId": "d3d929144aef6d2b581c76f32471fc5d348f5c89",
+        "branch": "main"
+      }
+    }
+  }
+}
